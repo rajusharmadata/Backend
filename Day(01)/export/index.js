@@ -1,0 +1,1 @@
+//  how to work export and import file in js
